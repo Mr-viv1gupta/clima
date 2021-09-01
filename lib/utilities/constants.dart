@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 const String fontFamily = 'Spartan MB';
 
-const apiKey = 'bc0275888ca6c64d9aca18d160db5f37';
+const apiKey = '***********************************';
 
 const openWeatherMapURL = 'https://api.openweathermap.org/data/2.5/weather';
 
